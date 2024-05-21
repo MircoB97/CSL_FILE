@@ -313,6 +313,7 @@
               <text value="."/>
             </if>
             <else/>
+          <text value="N/A"/>
           </choose>
           <text macro="access"/>
         </if>
