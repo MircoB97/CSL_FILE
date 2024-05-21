@@ -106,7 +106,7 @@
         <date variable="issued" form="text" prefix="(" suffix=")"/>
       </else-if>
       <else>
-        <text value="No date provided"/>
+        <text variable="issued" form="text"/>
       </else>
     </choose>
   </macro>
@@ -429,5 +429,6 @@
     </layout>
   </bibliography>
 </style>
+
 
 
